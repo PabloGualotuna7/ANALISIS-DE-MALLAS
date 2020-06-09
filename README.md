@@ -113,7 +113,7 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 9. RECOMENDACIONES 
 
-* Al momento de realziar la prectica en el simulador se hizo Un mal posicionamiento de ciertos elementos del circuito, esto genera que los valores sean diferentes o que no se pueda hacer una correcta toma de los datos, recomendamos antes de proceder con la parte experimantal tener claro el diagrma del circuito a usar.
+* Al momento de realziar la prectica en el simulador se hizo Un mal posicionamiento de ciertos elementos del circuito, esto genera que los valores sean diferentes o que no se pueda hacer una correcta toma de los datos, recomendamos antes de proceder con la parte experimantal tener claro el diagrama del circuito a usar.
 
 * Es muy improtante enteder el porque la realización de esta practica puesto que mas adelante se veran temas un poco mas complejos, donde procedimientos como realizados en este laboratorio no debe contener errores significativos.
 
