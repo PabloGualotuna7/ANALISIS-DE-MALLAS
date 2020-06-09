@@ -11,11 +11,7 @@
 
 Un circuito de varias mallas es el que tiene dos o mas mallas, esto significa que tiene diferentes trayectorias cerradas de elementos. Los elementos de las mallas están en serie o paralelo y éstos conducen la misma corriente. Para resolver estos circuitos se determina de forma facil haciendo uso de las Leyes de Kirchoff mas especificamnete la Ley de Voltajes, se calcula la corriente total de la malla y ya con este dato se determinan los voltajes y las potencias de cada resistor. El voltaje de la fuente equivalente se calcula usando la ley de voltaje de Kirchhoff siguiendo la dirección de las manecillas del reloj usando el flujo de corriente convencional.
 
-![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Formula.png)
-
 ¿Qué es una malla?
-
-
 
 En un circuito eléctrico, una malla es un camino cerrado formado por elementos de circuitos. En este caso hay 4 mallas, formadas por 4 caminos cerrados. Si no hay una fuente de voltaje o de corriente en una malla entonces asumimos que la corriente fluye en un sentido horario. Se podría asumir en el sentido anti horario, lo cual no interesa mucho ya que si se escoge un sentido incorrecto la corriente que nos resultará al hacer nuestros cálculos tendrá signo negativo. Esto lo podremos apreciar al final cuando obtengamos nuestra respuesta.
 
@@ -45,7 +41,11 @@ Pasos a seguir en un análisis por mallas:
 
 Circuito Electrico
 
+![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/DIAGRAMA-2.jpg)
+
 Circuito Electrico hecho en Tinkercad
+
+![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Armado.png)
 
 5. LISTAS DE COMPONENTES
 
@@ -63,7 +63,7 @@ Para la descripción de los equipos empleados véase hojas técnicas.
 
 * Escogemos cinco resistencias y las conectamos siguiendo el diagrama visto en el archivo de la practica, que en este caso son 5 de valores de 820 Ohm, 1.2k Ohm, 390 Ohm, 1K Ohm y 2.2k Ohm. 
 
-* Hacinedo clic izquierdo en los agujeros del protoboard conectamos con cables las resistencias y pasamos corriente a donde haga falta.
+* Hacinedo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde haga falta.
 
 * Colocamos un multimetro y realizamos las mediciones de voltaje y de corriente el color negro es el negativo mientras que el colo rojo es el positivo.
 
