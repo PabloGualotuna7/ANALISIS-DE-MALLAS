@@ -96,26 +96,22 @@ Circuito Elecrtico con mediciones hecho en Proteus
 | CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
 
 
-8. ANÁLISIS DE RESULTADOS
+8. CONCLUSIONES 
 
-9. CONCLUSIONES 
+9. RECOMENDACIONES 
 
-10. RECOMENDACIONES 
-
-11. CRONOGRAMA
+10. CRONOGRAMA
 
 Actividadades desarrolladas a lo largo de la practica de laboratorio.
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Cronograma.png)
 
-12. BIBLIOGRAFÍA 
+11. BIBLIOGRAFÍA 
 
 2015 Educatina LLC. (2015). educatina. Recuperado el 11 de Diciembre de 2015, de http://www.educatina.com/buscar?q=circuitos+el%C3%A9ctricos+
 
 Alexander, C. 2006. Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
 
 Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
-
-Matthew N.O.Sadiku, C. K. (2006). Fundamentos de circuitos eléctricos. McGraw-Hill Interamericana. radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radioelectronica.es/articulos-teoricos/200-las-leyes-de-kirchhoff
 
 Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
