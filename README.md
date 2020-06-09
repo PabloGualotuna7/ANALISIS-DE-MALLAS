@@ -87,16 +87,13 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 * Haciendo clic izquierdo en los pines del protoboard conectamos con cables las resistencias y pasamos corriente a donde haga falta.
 
-* Colocamos un multímetro y realizamos las mediciones de voltaje y de corriente el color negro es el negativo mientras que el color rojo es el positivo.
+* Colocamos un multímetro y cambiamos la configuración de multímetro en amperaje y conectamos en serie con el circuito y el color negro es el negativo mientras que el color rojo es el positivo. 
 
-* Cambiamos la configuración de multímetro en voltaje y conectamos en paralelo con las resistencias.
+* Realizamos las mediciones de corriente pedidas en la guia.
 
-* Ahora dentro del mismo multímetro seleccionamos amperaje y conectamos en serie con las resistencias.
-
-* Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
+* Anotamos los valores obtenidos en las tabla de la guía de laboratorio.
 
 * Guardamos y salimos.
-
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
