@@ -112,9 +112,13 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 * Los errores relativos no pasan del 1% por lo cual nuestros valores son casi perfectos y no hay fallo en la medición que realizamos, esto debido tambien a que los simuladores que usamos son un software programado con un cierto número de decimales, mientras que nosotros usamos como máximo de dos decimales validos.
 
-*  Y de lo anterior, se concluye que el método de Análisis de Mallas es un método práctico y muy útil para el análisis de circuitos, y que no requiere tanta complejidad, aunque existan variacionesen su forma de aplicarlo.
+* Y de lo anterior, se concluye que el método de Análisis de Mallas es un método práctico y muy útil para el análisis de circuitos, y que no requiere tanta complejidad, aunque existan variacionesen su forma de aplicarlo.
 
 9. RECOMENDACIONES 
+
+* Al momento de realziar la prectica en el simulador se hizo Un mal posicionamiento de ciertos elementos del circuito, esto genera que los valores sean diferentes o que no se pueda hacer una correcta toma de los datos, recomendamos antes de proceder con la parte experimantal tener claro el diagrma del circuito a usar.
+
+* Es muy improtante enteder el porque la realización de esta practica puesto que mas adelante se veran temas un poco mas complejos, donde procedimientos como realizados en este laboratorio no debe contener errores significativos.
 
 10. CRONOGRAMA
 
