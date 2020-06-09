@@ -9,11 +9,11 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 * Medir circuitos de c.d. de varias mallas con múltiples fuentes de voltajes y múltiples resistores.
 
-* Determinar la tensión o la corriente de cualquier elemento de un circuito plano.
+* Entender las conexiones y forma de uso del protoboard, del multímetro y de los demás materiales de laboratorio para hacer un uso correcto de ellos, ya que cada uno tiene una forma específica de uso.
 
 * Resolver un circuito eléctrico generando un sistema de ecuaciones simultáneas que se obtienen aplicando las leyes de Kirchhoff y las relaciones i-v (corriente-voltaje) de los elementos del circuito en la o las mallas del circuito.
 
-* Analizar los pasos que se debe seguir para poder resolver mediante el análisis de mallas.
+* Comparar los cálculos teóricos con los prácticos de medición de intensidad de corriente eléctrica y analizar el posible margen de error.
 
 3. MARCO TEÓRICO 
 
