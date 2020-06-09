@@ -63,7 +63,7 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 5. LISTAS DE COMPONENTES
 
-Para la descripción de los equipos empleados véase hojas técnicas.
+![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Componentes.png)
 
 6. DESCRIPCIÓN DE PRERREQUISITOS Y CONFIGURACIÓN
 
