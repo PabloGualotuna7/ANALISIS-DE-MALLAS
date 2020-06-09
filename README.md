@@ -3,6 +3,8 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos, estudiaremos el análisis de las mallas en los circuitos eléctricos para tener una facilidad en la aplicación y resolución de ejercicios. Así como también podemos comparar los resultados tantos calculados y medidos con el programa (TINKERCAD, PROTEUS, ETC.)
+
 2. OBJETIVOS
 
 * Medir circuitos de c.d. de varias mallas con múltiples fuentes de voltajes y múltiples resistores.
@@ -11,6 +13,7 @@
 
 * Resolver un circuito eléctrico generando un sistema de ecuaciones simultáneas que se obtienen aplicando las leyes de Kirchhoff y las relaciones i-v (corriente-voltaje) de los elementos del circuito en la o las mallas del circuito.
 
+* Analizar los pasos que se debe seguir para poder resolver mediante el análisis de mallas.
 
 3. MARCO TEÓRICO 
 
