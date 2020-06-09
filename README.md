@@ -3,7 +3,7 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos, estudiaremos el análisis de las mallas en los circuitos eléctricos para tener una facilidad en la aplicación y resolución de ejercicios. Así como también podemos comparar los resultados tantos calculados y medidos con el programa (TINKERCAD, PROTEUS, ETC.)
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos, estudiaremos el análisis de las mallas en los circuitos eléctricos para tener una facilidad en la aplicación y resolución de ejercicios. Así como también podemos comparar los resultados tantos calculados y medidos con el programa (TINKERCAD, PROTEUS, ETC.), mediante la resolución del ejercicio o circuito eléctrico planteado en el informe.
 
 2. OBJETIVOS
 
@@ -119,7 +119,7 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 10. CRONOGRAMA
 
-Actividades desarrolladas a lo largo de la práctica de laboratorio.
+Actividades desarrolladas a lo largo de la practica de laboratorio.
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Cronograma.png)
 
