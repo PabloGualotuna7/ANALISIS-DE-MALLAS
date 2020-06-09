@@ -3,7 +3,7 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-E, estudiaremos el análisis de las mallas en los circuitos eléctricos para tener una facilidad en la aplicación y resolución de ejercicios. Así como también podemos comparar los resultados tantos calculados y medidos con el programa (TINKERCAD, PROTEUS, ETC.)
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos, estudiaremos el análisis de las mallas en los circuitos eléctricos para tener una facilidad en la aplicación y resolución de ejercicios. Así como también podemos comparar los resultados tantos calculados y medidos con el programa (TINKERCAD, PROTEUS, ETC.)
 
 2. OBJETIVOS
 
