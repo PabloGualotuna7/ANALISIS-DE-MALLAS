@@ -11,6 +11,8 @@
 
 Un circuito de varias mallas es el que tiene dos o mas mallas, esto significa que tiene diferentes trayectorias cerradas de elementos. Los elementos de las mallas están en serie o paralelo y éstos conducen la misma corriente. Para resolver estos circuitos se determina de forma facil haciendo uso de las Leyes de Kirchoff mas especificamnete la Ley de Voltajes, se calcula la corriente total de la malla y ya con este dato se determinan los voltajes y las potencias de cada resistor. El voltaje de la fuente equivalente se calcula usando la ley de voltaje de Kirchhoff siguiendo la dirección de las manecillas del reloj usando el flujo de corriente convencional.
 
+![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Formula.png)
+
 ¿Qué es una malla?
 
 
