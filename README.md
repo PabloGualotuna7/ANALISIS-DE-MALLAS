@@ -21,11 +21,13 @@ Un circuito de varias mallas es el que tiene dos o mas mallas, esto significa qu
 
 ¿Qué es una malla?
 
+![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/1.jpg)
+
 En un circuito eléctrico, una malla es un camino cerrado formado por elementos de circuitos. En este caso hay 4 mallas, formadas por 4 caminos cerrados. Si no hay una fuente de voltaje o de corriente en una malla entonces asumimos que la corriente fluye en un sentido horario. Se podría asumir en el sentido anti horario, lo cual no interesa mucho ya que si se escoge un sentido incorrecto la corriente que nos resultará al hacer nuestros cálculos tendrá signo negativo. Esto lo podremos apreciar al final cuando obtengamos nuestra respuesta.
 
 Las corrientes las debemos representar en nuestro diagrama se la siguiente manera:
 
-
+![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/2.jpg)
 
 Vemos que en la malla 1 se asume que la corriente va en sentido horario ya que sale del positivo de la fuente. En las mallas 2 y 3 no hay fuente, así que se asume libremente (preferiblemente en sentido horario). En la malla 4 la corriente va en sentido anti horario por salir del positivo de la fuente de voltaje.
 
