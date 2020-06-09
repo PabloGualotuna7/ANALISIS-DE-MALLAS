@@ -103,4 +103,8 @@ Alexander, C. 2006. Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw
 
 Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
 
+Matthew N.O.Sadiku, C. K. (2006). Fundamentos de circuitos eléctricos. McGraw-Hill Interamericana. radio electronica. (s.f.). Recuperado el 01 de Junio de 2020, de http://www.radioelectronica.es/articulos-teoricos/200-las-leyes-de-kirchhoff
 
+Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
+
+Electrónica completa. (s.f.). Recuperado el 01 de Junio de 2020, de http://electronicacompleta.com/lecciones/leyes-de-kirchhoff/
