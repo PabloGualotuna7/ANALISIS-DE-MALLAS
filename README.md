@@ -55,6 +55,10 @@ Circuito Electrico hecho en Tinkercad
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Armado.png)
 
+Circuito Elecrtico con mediciones hecho en Proteus 
+
+![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Proteus.png)
+
 5. LISTAS DE COMPONENTES
 
 Para la descripción de los equipos empleados véase hojas técnicas.
