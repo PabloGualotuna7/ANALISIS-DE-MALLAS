@@ -91,10 +91,11 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 7. TABLAS DE MEDICIONES Y CÁLCULOS 
 
-| Malla| TITULO2|
-| ----- | ---- |
-| CONTENIDO COLUMNA 1 | CONTENIDO COLUMNA 2 |
-
+| Malla| Resultados Analíticos | Resultados Experimentales| Resultados Simulados|
+| --    |                 ---- |-------------             |----------------      |
+| 1 |                   11.46mA| 11.5mA                   |11.5mA                |
+|2  |                   2.85mA |2.85mA                    |2.85mA                |              
+|3  |                   0.49mA | 0.488mA                  |0.49mA                |
 
 8. CONCLUSIONES 
 
