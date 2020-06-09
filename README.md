@@ -100,6 +100,10 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 8. CONCLUSIONES 
 
+* Este metodo nos permite hallar las tensiones en cualquier parte del circuito, debido a que encontramos la corriente de la malla, ademas la ventaja de usar este metodo es que nos brinda un sistema de ecuaciones para luego hallar lo que deseamos.
+
+* Los errores relativos no pasan del 1% por lo cual nuestros valores son casi perfectos y no hay fallo en la medición en la medición que realizamos, esto debido tambien a que los simuladores son un software programdocon un cierto número de decimales mientras que nosotros usamos como máximo de dos decimales validos.
+
 9. RECOMENDACIONES 
 
 10. CRONOGRAMA
