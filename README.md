@@ -65,7 +65,7 @@ Circuito Eléctrico hecho en Tinkercad
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Armado.png)
 
-Circuito Elecrtico con mediciones hecho en Proteus 
+Circuito Elécrtico con mediciones realizado en Proteus 
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Proteus.png)
 
@@ -77,7 +77,7 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 * Abrimos el sitio web "tinkercad" y creamos una cuenta.
 
-* Hacemos clic izquierdo en "Circuits" y comenzamos con la practica.
+* Hacemos clic izquierdo en "Circuits" y comenzamos con la práctica.
 
 * Seleccionamos una placa de pruebas pequeñas (Protoboard).
 
