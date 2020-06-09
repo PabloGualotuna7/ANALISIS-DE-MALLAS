@@ -11,6 +11,34 @@
 
 Un circuito de varias mallas es el que tiene dos o mas mallas, esto significa que tiene diferentes trayectorias cerradas de elementos. Los elementos de las mallas están en serie o paralelo y éstos conducen la misma corriente. Para resolver estos circuitos se determina de forma facil haciendo uso de las Leyes de Kirchoff mas especificamnete la Ley de Voltajes, se calcula la corriente total de la malla y ya con este dato se determinan los voltajes y las potencias de cada resistor. El voltaje de la fuente equivalente se calcula usando la ley de voltaje de Kirchhoff siguiendo la dirección de las manecillas del reloj usando el flujo de corriente convencional.
 
+¿Qué es una malla?
+
+
+
+En un circuito eléctrico, una malla es un camino cerrado formado por elementos de circuitos. En este caso hay 4 mallas, formadas por 4 caminos cerrados. Si no hay una fuente de voltaje o de corriente en una malla entonces asumimos que la corriente fluye en un sentido horario. Se podría asumir en el sentido anti horario, lo cual no interesa mucho ya que si se escoge un sentido incorrecto la corriente que nos resultará al hacer nuestros cálculos tendrá signo negativo. Esto lo podremos apreciar al final cuando obtengamos nuestra respuesta.
+
+Las corrientes las debemos representar en nuestro diagrama se la siguiente manera:
+
+
+
+Vemos que en la malla 1 se asume que la corriente va en sentido horario ya que sale del positivo de la fuente. En las mallas 2 y 3 no hay fuente, así que se asume libremente (preferiblemente en sentido horario). En la malla 4 la corriente va en sentido anti horario por salir del positivo de la fuente de voltaje.
+
+* Ley de Ohm: sean V el voltaje, R la resistencia e I la corriente del elemento resistivo óhmico, en el cual el voltaje y la corriente son directamente proporcionales, siendo la resistencia la constante de proporcionalidad: V = I.R
+
+* Ley de Kirchhoff del voltaje (LKV): en cualquier trayectoria cerrada recorrida en una sola dirección, la suma algebraica de los voltajes es cero. Esto incluye los voltajes debidos a fuentes, resistores, inductores o capacitores: ∑ E = ∑ Ri. I
+
+* Ley de Kirchhoff de la corriente (LKC): en cualquier nodo, la suma algebraica de las corrientes es cero, teniendo en cuenta que a las corrientes que entran se les asigna un signo y a las que salen otro. De esta forma: ∑ I = 0.
+
+El análisis de mallas es una técnica empleada para resolver circuitos eléctricos planos. Este procedimiento también puede aparecer en la literatura con el nombre de método de las corrientes de malla (o lazo). Además, es un método general que sirve para resolver circuitos cuyos elementos están conectados en serie, en paralelo o de forma mixta, es decir, cuando no se distingue claramente el tipo de conexión. El circuito debe ser plano, o al menos debe ser posible re-dibujarlo como tal.
+
+Pasos a seguir en un análisis por mallas:
+
+* Paso 1. Asignar una corriente de malla a cada malla (sentido cualquiera) y asignar una polarización a cada elemento del circuito.
+* Paso 2. Establecemos un sentido de circulación siguiendo el cual aplicamos KVL a cada malla. Tendremos tantas ecuaciones como mallas.
+* Paso 3. Usamos las relaciones V/I (Ley de Ohm) para expresar las tensiones en función de las corrientes en las ecuaciones de 2.
+* Paso 4. Sustituimos las ecuaciones del paso 3 en 2.
+* Paso 5. Obtenemos las corrientes de malla.
+
 4. DIAGRAMAS
 
 Circuito Electrico
