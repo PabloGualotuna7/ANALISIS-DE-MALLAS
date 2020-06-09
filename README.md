@@ -89,7 +89,7 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 * Colocamos un multímetro y cambiamos la configuración del multímetro en amperaje y conectamos en serie con el circuito, el color negro es el negativo mientras que el color rojo es el positivo. 
 
-* Realizamos las mediciones de corriente pedidas en la guia.
+* Realizamos las mediciones de corriente pedidas en la guía.
 
 * Anotamos los valores obtenidos en las tabla de la guía de laboratorio.
 
@@ -109,7 +109,7 @@ Circuito Elecrtico con mediciones hecho en Proteus
 
 * Los errores relativos no pasan del 1% por lo cual nuestros valores son casi perfectos y no hay fallo en la medición que realizamos, esto debido tambien a que los simuladores que usamos son un software programado con un cierto número de decimales, mientras que nosotros usamos como máximo de dos decimales validos.
 
-* Y de lo anterior, se concluye que el método de Análisis de Mallas es un método práctico y muy útil para el análisis de circuitos, y que no requiere tanta complejidad, aunque existan variacionesen su forma de aplicarlo.
+* Y de lo anterior, se concluye que el método de Análisis de Mallas es un método práctico y muy útil para el análisis de circuitos, y que no requiere tanta complejidad, aunque existan variaciones en su forma de aplicarlo.
 
 9. RECOMENDACIONES 
 
