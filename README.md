@@ -17,7 +17,7 @@ En el siguiente informe de laboratorio se va a emplear los conocimientos aprendi
 
 3. MARCO TEÓRICO 
 
-Un circuito de varias mallas es el que tiene dos o mas mallas, esto significa que tiene diferentes trayectorias cerradas de elementos. Los elementos de las mallas están en serie o paralelo y éstos conducen la misma corriente. Para resolver estos circuitos se determina de forma facil haciendo uso de las Leyes de Kirchoff mas especificamnete la Ley de Voltajes, se calcula la corriente total de la malla y ya con este dato se determinan los voltajes y las potencias de cada resistor. El voltaje de la fuente equivalente se calcula usando la ley de voltaje de Kirchhoff siguiendo la dirección de las manecillas del reloj usando el flujo de corriente convencional.
+Un circuito de varias mallas es el que tiene dos o más mallas, esto significa que tiene diferentes trayectorias cerradas de elementos. Los elementos de las mallas están en serie o paralelo y éstos conducen la misma corriente. Para resolver estos circuitos se determina de forma fácil haciendo uso de las Leyes de Kirchhoff mas específicamente la Ley de Voltajes, se calcula la corriente total de la malla y ya con este dato se determinan los voltajes y las potencias de cada resistor. El voltaje de la fuente equivalente se calcula usando la ley de voltaje de Kirchhoff siguiendo la dirección de las manecillas del reloj usando el flujo de corriente convencional.
 
 ¿Qué es una malla?
 
@@ -56,10 +56,10 @@ Circuito Eléctrico
 Descripción del circuito.
 
 * En el diagrama se observa dos fuentes voltajes independientes, conectadas a los extremos del circuito.
-* Ademas dentro del circuito se aprecia 5 resistencias medidas en kOhms
-* Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la practica reconocemos 3 nodos principales.
-* Se tiene que la resistencia de 0.82 KOhm forma nodo con las resistencias de 1,2 KOhm y 1 KOhm. La resistecnia de 1.2 KOhm forma un nodo con las resistencias de 0.39 KOhm y 2.2 kohm. Como nodo de referencia o tierra es toda la seccion de abajo del circuito eletrico.
-* En el caso de este circuito electríco identíficamos 3 mallas, colocando una intensidad en cada malla denotandolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
+* Además, dentro del circuito se aprecia 5 resistencias medidas en kOhms
+* Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la práctica reconocemos 3 nodos principales.
+* Se tiene que la resistencia de 0.82 KOhm forma nodo con las resistencias de 1,2 KOhm y 1 KOhm. La resistencia de 1.2 KOhm forma un nodo con las resistencias de 0.39 KOhm y 2.2 kohm. Como nodo de referencia o tierra es toda la sección de abajo del circuito eléctrico.
+* En el caso de este circuito eléctrico identificamos 3 mallas, colocando una intensidad en cada malla denotándolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
 
 Circuito Eléctrico hecho en Tinkercad
 
@@ -91,7 +91,7 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 * Realizamos las mediciones de corriente pedidas en la guía.
 
-* Anotamos los valores obtenidos en las tabla de la guía de laboratorio.
+* Anotamos los valores obtenidos en las tablas de la guía de laboratorio.
 
 * Guardamos y salimos.
 
@@ -105,21 +105,21 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 8. CONCLUSIONES 
 
-* Este metodo nos permite hallar las tensiones en cualquier parte del circuito, debido a que encontramos la corriente de la malla, ademas la ventaja de usar este metodo es que nos brinda un sistema de ecuaciones para luego hallar lo que deseamos.
+* Este método nos permite hallar las tensiones en cualquier parte del circuito, debido a que encontramos la corriente de la malla, además la ventaja de usar este método es que nos brinda un sistema de ecuaciones para luego hallar lo que deseamos.
 
-* Los errores relativos no pasan del 1% por lo cual nuestros valores son casi perfectos y no hay fallo en la medición que realizamos, esto debido tambien a que los simuladores que usamos son un software programado con un cierto número de decimales, mientras que nosotros usamos como máximo de dos decimales validos.
+* Los errores relativos no pasan del 1% por lo cual nuestros valores son casi perfectos y no hay fallo en la medición que realizamos, esto debido también a que los simuladores que usamos son un software programado con un cierto número de decimales, mientras que nosotros usamos como máximo de dos decimales válidos.
 
 * Y de lo anterior, se concluye que el método de Análisis de Mallas es un método práctico y muy útil para el análisis de circuitos, y que no requiere tanta complejidad, aunque existan variaciones en su forma de aplicarlo.
 
 9. RECOMENDACIONES 
 
-* Al momento de realziar la prectica en el simulador se hizo Un mal posicionamiento de ciertos elementos del circuito, esto genera que los valores sean diferentes o que no se pueda hacer una correcta toma de los datos, recomendamos antes de proceder con la parte experimantal tener claro el diagrama del circuito a usar.
+* Al momento de realizar la práctica en el simulador se hizo Un mal posicionamiento de ciertos elementos del circuito, esto genera que los valores sean diferentes o que no se pueda hacer una correcta toma de los datos, recomendamos antes de proceder con la parte experimental tener claro el diagrama del circuito a usar.
 
-* Es muy improtante enteder el porque la realización de esta practica puesto que mas adelante se veran temas un poco mas complejos, donde procedimientos como realizados en este laboratorio no debe contener errores significativos.
+* Es muy importante entender el porqué la realización de esta práctica puesto que más adelante se verán temas un poco más complejos, donde procedimientos como realizados en este laboratorio no debe contener errores significativos.
 
 10. CRONOGRAMA
 
-Actividadades desarrolladas a lo largo de la practica de laboratorio.
+Actividades desarrolladas a lo largo de la practica de laboratorio.
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Cronograma.png)
 
