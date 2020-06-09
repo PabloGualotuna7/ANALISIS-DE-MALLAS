@@ -61,7 +61,7 @@ Descripción del circuito.
 * Se tiene que la resistencia de 0.82 KOhm forma nodo con las resistencias de 1,2 KOhm y 1 KOhm. La resistecnia de 1.2 KOhm forma un nodo con las resistencias de 0.39 KOhm y 2.2 kohm. Como nodo de referencia o tierra es toda la seccion de abajo del circuito eletrico.
 * En el caso de este circuito electríco identíficamos 3 mallas, colocando una intensidad en cada malla denotandolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
 
-Circuito Electrico hecho en Tinkercad
+Circuito Eléctrico hecho en Tinkercad
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Circuito_Armado.png)
 
