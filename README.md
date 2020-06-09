@@ -119,7 +119,7 @@ Circuito Elécrtico con mediciones realizado en Proteus
 
 10. CRONOGRAMA
 
-Actividades desarrolladas a lo largo de la practica de laboratorio.
+Actividades desarrolladas a lo largo de la práctica de laboratorio.
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/Cronograma.png)
 
