@@ -96,4 +96,8 @@ Actividadades desarrolladas a lo largo de la practica de laboratorio.
 
 2015 Educatina LLC. (2015). educatina. Recuperado el 11 de Diciembre de 2015, de http://www.educatina.com/buscar?q=circuitos+el%C3%A9ctricos+
 
+Alexander, C. 2006. Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
+
+Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
+
 
