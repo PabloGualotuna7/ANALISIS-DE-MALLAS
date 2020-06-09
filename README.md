@@ -3,7 +3,7 @@
 
 1. PLANTEAMIENTO DEL PROBLEMA 
 
-En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos. 
+En el siguiente informe de laboratorio se va a emplear los conocimientos aprendidos en la teoría de la materia de Fundamentos de Circuitos eléctricos en lo que respecta a Análisis de mallas, para lo cuál se debe tener un conocimiento previo de las leyes de Kirchhoff.  
 
 
 2. OBJETIVOS
