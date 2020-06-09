@@ -9,7 +9,7 @@
 
 * Determinar la tensión o la corriente de cualquier elemento de un circuito plano.
 
-* Resolver un circuito eléctrico genera un sistema de ecuaciones simultáneas que se obtienen aplicando las leyes de Kirchhoff y las relaciones i-v (corriente-voltaje) de los elementos del circuito.
+* Resolver un circuito eléctrico generando un sistema de ecuaciones simultáneas que se obtienen aplicando las leyes de Kirchhoff y las relaciones i-v (corriente-voltaje) de los elementos del circuito en la o las mallas del circuito.
 
 
 3. MARCO TEÓRICO 
