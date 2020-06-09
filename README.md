@@ -7,6 +7,11 @@
 
 * Medir circuitos de c.d. de varias mallas con múltiples fuentes de voltajes y múltiples resistores.
 
+* Determinar la tensión o la corriente de cualquier elemento de un circuito plano.
+
+* Resolver un circuito eléctrico genera un sistema de ecuaciones simultáneas que se obtienen aplicando las leyes de Kirchhoff y las relaciones i-v (corriente-voltaje) de los elementos del circuito.
+
+
 3. MARCO TEÓRICO 
 
 Un circuito de varias mallas es el que tiene dos o mas mallas, esto significa que tiene diferentes trayectorias cerradas de elementos. Los elementos de las mallas están en serie o paralelo y éstos conducen la misma corriente. Para resolver estos circuitos se determina de forma facil haciendo uso de las Leyes de Kirchoff mas especificamnete la Ley de Voltajes, se calcula la corriente total de la malla y ya con este dato se determinan los voltajes y las potencias de cada resistor. El voltaje de la fuente equivalente se calcula usando la ley de voltaje de Kirchhoff siguiendo la dirección de las manecillas del reloj usando el flujo de corriente convencional.
@@ -88,3 +93,7 @@ Para la descripción de los equipos empleados véase hojas técnicas.
 Actividadades desarrolladas a lo largo de la practica de laboratorio.
 
 12. BIBLIOGRAFÍA 
+
+2015 Educatina LLC. (2015). educatina. Recuperado el 11 de Diciembre de 2015, de http://www.educatina.com/buscar?q=circuitos+el%C3%A9ctricos+
+
+
