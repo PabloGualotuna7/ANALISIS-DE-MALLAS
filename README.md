@@ -125,10 +125,14 @@ Actividadades desarrolladas a lo largo de la practica de laboratorio.
 
 11. BIBLIOGRAFÍA 
 
-2015 Educatina LLC. (2015). educatina. Recuperado el 11 de Diciembre de 2015, de http://www.educatina.com/buscar?q=circuitos+el%C3%A9ctricos+
+2015 Educatina LLC. (2015). educatina. Recuperado el 11 de Diciembre de 2015. Obtenido de http://www.educatina.com/buscar?q=circuitos+el%C3%A9ctricos+
 
 Alexander, C. 2006. Fundamentos de Circuitos Eléctricos. 3ra. Edición. Mc Graw Hill.
 
 Boylestad, R. 2011. Introducción al Análisis de Circuitos.2da. Edición. Pearson.
 
 Dorf, R., & Svoboda, J. (2011). Circuitos eléctricos. México: Alfaomega.
+
+Matrix calculator. (s.f.). Obtenido de Matrix calculator: https://matrixcalc.org/es/slu.html#solve-using-Gauss-Jordan-elimination%28%7B%7B-%2891/50%29,1,0,-18%7D,%7B1,-%2822/5%29,11/5,0%7D,%7B11/5,-%28259/100%29,0,5%7D%7D%29
+
+
