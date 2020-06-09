@@ -49,7 +49,7 @@ Pasos a seguir en un análisis por mallas:
 
 4. DIAGRAMAS
 
-Circuito Electrico
+Circuito Eléctrico
 
 ![](https://github.com/PabloGualotuna7/ANALISIS_DE_MALLAS/blob/master/img/DIAGRAMA_2.jpg)
 
@@ -57,7 +57,7 @@ Descripción del circuito.
 
 * En el diagrama se observa dos fuentes voltajes independientes, conectadas a los extremos del circuito.
 * Ademas dentro del circuito se aprecia 5 resistencias medidas en kOhms
-* Al momento de unir dos elementos electricos, se forman nodos que para el caso del circuito de la practica reconocemos 3 nodos principales.
+* Al momento de unir dos elementos eléctricos, se forman nodos que para el caso del circuito de la practica reconocemos 3 nodos principales.
 * Se tiene que la resistencia de 0.82 KOhm forma nodo con las resistencias de 1,2 KOhm y 1 KOhm. La resistecnia de 1.2 KOhm forma un nodo con las resistencias de 0.39 KOhm y 2.2 kohm. Como nodo de referencia o tierra es toda la seccion de abajo del circuito eletrico.
 * En el caso de este circuito electríco identíficamos 3 mallas, colocando una intensidad en cada malla denotandolas como I1, I2, I3 todas en sentido de las manecillas del reloj.
 
